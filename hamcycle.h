@@ -11,3 +11,5 @@ extern bool g[MAXDIM][MAXDIM];
 
 // global routines
 bool hamCycle();
+
+
